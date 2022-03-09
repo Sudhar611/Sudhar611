@@ -17,14 +17,26 @@ How it all started
 - https://frozen-shore-52335.herokuapp.com/ - Publish Journal !  -  Developed using HTML, CSS, Express.js & Mongo DB - Deployed in heroku
 - https://young-beyond-86878.herokuapp.com/ - Know your Secret ! - Developed using HTML, CSS, Express.js, OAuth & Mongo DB - Deployed in heroku
 
+CSS challenges completed in Frontmentor - https://www.frontendmentor.io/profile/Sudhar611
+
+- https://sudhar611.github.io/nft-preview-card-component-main/
+- https://sudhar611.github.io/base-apparel/
+- https://sudhar611.github.io/four-card-feature-section/
+- https://sudhar611.github.io/articlepreview/
+- https://sudhar611.github.io/fylod/
+- https://sudhar611.github.io/slider-master-coding-bootcamp/
+
+React Projects
+
+- http://buddy-trainer-ui.s3-website.ap-south-1.amazonaws.com/#/login - In Progress
+
 Live Wordpress Websites Built and Maintained
 
-Responsiblities - Post creation, SEO, Google analytics, Google webmaster, Front end development, Logo design & Poster Creation
+Responsiblities - Post creation, SEO, Google analytics, Google webmaster, Google Adsense, Front end development, Logo design & Poster Creation
 
 - https://gservants.com/ - News updates for central goverment employee's
 - https://govtstaffnews.in/ - News updates for central goverment employee's
 - https://fastagnews.in/ - Fastag news updates 
-
 
 <!--
 **Sudhar611/Sudhar611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
