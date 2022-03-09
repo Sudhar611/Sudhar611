@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I am professional web developer, Please look at some of my works below
+I am professional web developer, who likes to design and code. Please look at some of my works.
 
-Personal Projects timeline 
+<h2>Personal Projects</h2> 
 
-How it all started 
+<h3>How it all started</h3>
 
 - https://sudhar611.github.io/cv/ - CV - static web page with pure HTML 
 - https://sudhar611.github.io/css-mark1/ - Portfolio - static web page HTML & CSS
@@ -17,7 +17,7 @@ How it all started
 - https://frozen-shore-52335.herokuapp.com/ - Publish Journal !  -  Developed using HTML, CSS, Express.js & Mongo DB - Deployed in heroku
 - https://young-beyond-86878.herokuapp.com/ - Know your Secret ! - Developed using HTML, CSS, Express.js, OAuth & Mongo DB - Deployed in heroku
 
-CSS challenges completed in Frontmentor - https://www.frontendmentor.io/profile/Sudhar611
+<h3>CSS challenges completed in Frontmentor - https://www.frontendmentor.io/profile/Sudhar611</h3>
 
 - https://sudhar611.github.io/nft-preview-card-component-main/
 - https://sudhar611.github.io/base-apparel/
@@ -26,11 +26,11 @@ CSS challenges completed in Frontmentor - https://www.frontendmentor.io/profile/
 - https://sudhar611.github.io/fylod/
 - https://sudhar611.github.io/slider-master-coding-bootcamp/
 
-React Projects
+<h3>React Projects</h3>
 
 - http://buddy-trainer-ui.s3-website.ap-south-1.amazonaws.com/#/login - In Progress
 
-Live Wordpress Websites Built and Maintained
+<h3>Live Wordpress Websites Built and Maintained</h3>
 
 Responsiblities - Post creation, SEO, Google analytics, Google webmaster, Google Adsense, Front end development, Logo design & Poster Creation
 
@@ -38,15 +38,18 @@ Responsiblities - Post creation, SEO, Google analytics, Google webmaster, Google
 - https://govtstaffnews.in/ - News updates for central goverment employee's
 - https://fastagnews.in/ - Fastag news updates 
 
-Due to Organization policies can not disclose the work related projects
+<b>Due to organization policies cannot disclose details of work related projects<b>
 
-<h2>Git Contribution </h2>
+<h2>GitLab Contribution </h2>
 
 <img src="./images/gitlab-contribution.jpg" width="1300px" height="300px" />
 
 <h2>Bit Bucket Contribution</h2>
 
-<img src="./images/bitbucket-contribution.jpg" width="1300px" height="300px" />
+<img src="./images/bitbucket-contribution.jpg" width="1300px" height="500px" />
+  
+<h3>🌱 I’m currently learning - Java, spring & spring boot from great learning</h3>
+  
 <!--
 **Sudhar611/Sudhar611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
