@@ -48,7 +48,8 @@ Responsiblities - Post creation, SEO, Google analytics, Google webmaster, Google
 
 <img src="./images/bitbucket-contribution.jpg" width="1300px" height="500px" />
   
-<h3>🌱 I’m currently learning - Java, spring & spring boot from great learning</h3>
+<h3>🌱 I’m currently learning</h3>
+  Java, spring & spring boot from Back end development course by IIT Roorkee in Great Learning
   
 <!--
 **Sudhar611/Sudhar611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
