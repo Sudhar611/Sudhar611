@@ -17,7 +17,7 @@ I am professional web developer, who likes to design and code. Please look at so
 - https://frozen-shore-52335.herokuapp.com/ - Publish Journal !  -  Developed using HTML, CSS, Express.js & Mongo DB - Deployed in heroku
 - https://young-beyond-86878.herokuapp.com/ - Know your Secret ! - Developed using HTML, CSS, Express.js, OAuth & Mongo DB - Deployed in heroku
 
-<h3>CSS challenges completed in Frontmentor - https://www.frontendmentor.io/profile/Sudhar611</h3>
+<h3>CSS challenges completed in Frontendmentor - https://www.frontendmentor.io/profile/Sudhar611</h3>
 
 - https://sudhar611.github.io/nft-preview-card-component-main/
 - https://sudhar611.github.io/base-apparel/
