@@ -46,7 +46,7 @@ Responsiblities - Post creation, SEO, Google analytics, Google webmaster, Google
 
 <h2>Bit Bucket Contribution</h2>
 
-<img src="./images/bitbucket-contribution.jpg" width="1300px" height="500px" />
+<img src="./images/bitbucket-contribution.jpg" width="1300px" height="400px" />
   
 <h3>🌱 I’m currently learning</h3>
   Java, spring & spring boot from Back end development course by IIT Roorkee in Great Learning
