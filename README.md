@@ -12,7 +12,7 @@ I am professional web developer, who likes to design and code. Please look at so
 - https://sudhar611.github.io/mark4-dice/ - Roll dice - Built using HTML, CSS & JS
 - https://sudhar611.github.io/mark5-drums/ - Play Drums on web page - Developed using HTML, CSS & JS
 - https://sudhar611.github.io/mark5-simon/ - Simon Game ! - Test your memory power - Developed using HTML, CSS & JQuery
-- https://infinite-ridge-61043.herokuapp.com/ - Just a fan of Iron man - Sigup page - Developed using HTML, CSS & jQuery - deployed in heroku 
+- https://infinite-ridge-61043.herokuapp.com/ - Just a fan of Iron man - Signup page - Developed using HTML, CSS & jQuery - deployed in heroku 
 - https://intense-plateau-97284.herokuapp.com/ - To do list ! - Developed using HTML, CSS, Express.js & Mongo DB - Deployed in heroku
 - https://frozen-shore-52335.herokuapp.com/ - Publish Journal !  -  Developed using HTML, CSS, Express.js & Mongo DB - Deployed in heroku
 - https://young-beyond-86878.herokuapp.com/ - Know your Secret ! - Developed using HTML, CSS, Express.js, OAuth & Mongo DB - Deployed in heroku
@@ -28,8 +28,9 @@ I am professional web developer, who likes to design and code. Please look at so
 
 <h3>React Projects</h3>
 
-- https://sudhar611.github.io/first-react-app/ - My First React App
-- http://buddy-trainer-ui.s3-website.ap-south-1.amazonaws.com/#/login - In Progress
+- https://sudhar611.github.io/first-react-app/ - My First React App - React, css
+- https://sudhar611.github.io/Notes_App - Keeper App - to keep notes or todo list - React, css
+- http://buddy-trainer-ui.s3-website.ap-south-1.amazonaws.com/#/login - In Progress - React, Redux, Router, Tailwind
 
 <h3>Live Wordpress Websites Built and Maintained</h3>
 
